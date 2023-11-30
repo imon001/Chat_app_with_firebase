@@ -1,6 +1,6 @@
-# chatapp
+# Chat App
 
-### A simple Group based chat flutter app with **firebase Cloudfirestore, Firebase Auth** and StreamBuilders 
+### A simple Group based flutter chat app with **firebase Cloudfirestore, Firebase Auth** and StreamBuilders 
 
 ## Features
 
