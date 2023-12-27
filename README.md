@@ -15,7 +15,7 @@
 | ------------- | ------------- |------------- |
 
 
-**Note:** App requires internet to load the images.
+**Note:** App requires internet.
 
 ## Getting Started
 
